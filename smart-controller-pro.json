@@ -1,0 +1,18 @@
+{
+  "android": {
+    "versionName": "1.5",
+    "versionCode": 151,
+    "notes": "Bug fixes and stability improvements",
+    "forceUpdate": false,
+    "downloadUrl": "market://details?id=com.controller.myapp",
+    "downloadUrlWeb": "https://play.google.com/store/apps/details?id=com.controller.myapp"
+  },
+  "ios": {
+    "versionName": "1.5",
+    "versionCode": 151,
+    "notes": "",
+    "forceUpdate": false,
+    "downloadUrl": "itms-apps://itunes.apple.com/app/idTODO_APPSTORE_ID",
+    "downloadUrlWeb": "https://apps.apple.com/app/idTODO_APPSTORE_ID"
+  }
+}
