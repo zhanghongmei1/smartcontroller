@@ -8,8 +8,8 @@
     "downloadUrlWeb": "https://play.google.com/store/apps/details?id=com.controller.myapp"
   },
   "ios": {
-    "versionName": "1.5",
-    "versionCode": 151,
+    "versionName": "1.6",
+    "versionCode": 161,
     "notes": "",
     "forceUpdate": false,
     "downloadUrl": "itms-apps://itunes.apple.com/app/idTODO_APPSTORE_ID",
