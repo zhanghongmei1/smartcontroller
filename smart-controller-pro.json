@@ -9,7 +9,7 @@
   },
   "ios": {
     "versionName": "1.6",
-    "versionCode": 999,
+    "versionCode": 999999999,
     "notes": "",
     "forceUpdate": false,
     "downloadUrl": "itms-apps://itunes.apple.com/app/idTODO_APPSTORE_ID",
